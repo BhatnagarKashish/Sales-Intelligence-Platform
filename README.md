@@ -28,7 +28,7 @@ _Coming soon._
 |---|---|---|
 | Presentation | PPT / PDF | _Coming soon_ |
 | Live demo | Web | _Coming soon_ |
-| Dashboard | HTML | [dashboard.html](dashboard.html) |
+| Dashboard | HTML | https://code-basics-capstone-project.vercel.app/ |
 
 <!--
 HOW TO ADD YOUR FILES
